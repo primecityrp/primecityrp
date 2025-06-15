@@ -1,6 +1,14 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm PRIMOiXi
 A motivated FiveM Scripter | QBCore & ESX Editor | Learning Lua & Server Integration<br><br>🛠️ Currently working on:<br>QBCore/Qbox/ESX script edits & conversions<br><br>💬 Ask me about:<br>Script fixes & server setup<br><br>⚡ Fun fact:<br>Started dev work to improve my own RP server!
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=primecityrp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:primecityprimoix@gmail.com) 
@@ -12,8 +20,6 @@ A motivated FiveM Scripter | QBCore & ESX Editor | Learning Lua & Server Integra
 ![](https://nirzak-streak-stats.vercel.app/?user=primecityrp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=primecityrp&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=primecityrp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=primecityrp&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
